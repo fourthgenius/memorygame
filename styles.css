@@ -51,3 +51,15 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+.howto{
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  padding-right: 50px;
+}
+.rules{
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+
+}
